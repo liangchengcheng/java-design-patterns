@@ -8,8 +8,7 @@ package com.facade;
  */
 public class MobilePhone {
 
-
-    // TODO: 2016/1/9 然而此时这个手机就有了电话和拍照的功能 
+    // TODO: 2016/1/9 然而此时这个手机就有了电话和拍照的功能
     private Phone phone=new PhoneImpl();
     private Camera camera=new SamsungCamera();
 
