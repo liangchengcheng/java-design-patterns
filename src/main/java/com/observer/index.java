@@ -13,6 +13,6 @@ public class index {
         Subject subject=new Subject();
         subject.register(observer);
         subject.notifys();
-        
+
     }
 }
